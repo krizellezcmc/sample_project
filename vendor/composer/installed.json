@@ -1,0 +1,19 @@
+{
+    "packages": [
+        {
+            "name": "krizellezcmc10/sample_project",
+            "version": "1.0",
+            "version_normalized": "1.0.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/krizellezcmc/sample_project.git",
+                "reference": "master"
+            },
+            "type": "library",
+            "installation-source": "source",
+            "install-path": "../krizellezcmc10/sample_project"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
